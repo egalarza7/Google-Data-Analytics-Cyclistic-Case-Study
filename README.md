@@ -5,10 +5,8 @@ Google Data Analytic Capstone Project: Chicago Cyclist Bike Share Case Study
 
 **Date: November 20th, 2022**
 
+## The six steps of the data analysis process: 
 
-
-
-Six steps of data analysis process:
 
 ### Ask
 ### Prepare
@@ -37,3 +35,7 @@ Primary stakeholders:
 
 Secondary stakeholders:
 - Cylicstic marketing analytics team.
+
+## Prepare
+
+
