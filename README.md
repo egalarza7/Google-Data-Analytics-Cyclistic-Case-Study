@@ -46,4 +46,22 @@ Delivarables:
 
 ## Prepare
 
+Data Source: 12 Months of Cyclistic trip data from (November 2021 to November 2022): [Source Link](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
+This data is made public by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). 
+
+The data set has 12 CSV files and includes the following from the ROCCC approach:
+ - Reliability: The data is accurate and from Divvy. Divvy owns the city bikes, stations, and vehicles in Chicago. 
+ - Original: The data is from Motivate International Inc., which runs the vicycle sharing service.
+ - Comprehensive: The data has the types of bikes, start and end station names, start and end times, station ID's, station longitude and latitude, and memerbship types.
+ - Current: The data is up to date to November 2022.
+ - Cited: The data is cited and under [license](https://ride.divvybikes.com/data-license-agreement). 
+
+## Process
+
+I used Rstudio to clean the data. 
+ - Inspected data
+ - Cleaned data
+ - Removed duplicates
+ - Rename columns for better understanding
+ - 
